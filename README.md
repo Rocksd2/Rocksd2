@@ -2,7 +2,7 @@
 
 ### 🚀 Estudante de ADS | Desenvolvedor Web em Evolução
 
-Sou um desenvolvedor apaixonado por criar soluções que unem funcionalidade e design. Atualmente, estou focando meus estudos em aprimorar minhas habilidades em frameworks modernos e arquitetura de software para entregar projetos cada vez mais eficientes e escaláveis.
+Sou estudante do curso do Analise e Desenvolvimento de Sistemas (ADS) da Universidade da Amazônia UNAMA, estou no segundo período do curso e tenho alguns projetos desenvolvidos em sala e pessoais para melhorar meu aprendizado. 
 
 ### 🛠️ Minha Stack Tecnológica
 
