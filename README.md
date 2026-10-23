@@ -1,6 +1,6 @@
 # Olá, eu sou o Alexander Protasio! 👋
 
-### 🚀 Estudante de ADS | Desenvolvedor Web em Evolução
+### 🚀 Estudante de ADS | Desenvolvedor em Evolução
 
 Sou estudante do curso do Analise e Desenvolvimento de Sistemas (ADS) da Universidade da Amazônia UNAMA, estou no segundo período do curso e tenho alguns projetos desenvolvidos em sala e pessoais para melhorar meu aprendizado. 
 
