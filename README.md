@@ -25,6 +25,7 @@ Sou estudante do curso do Analise e Desenvolvimento de Sistemas (ADS) da Univers
 
 - **[EduGestão](https://github.com/Rocksd2/EduGest-o)**: Sistema de gestão escolar desenvolvido para otimizar processos administrativos.
 - **[Helpdesk-Java](https://github.com/Rocksd2/helpdask-java.git)**: Sistema de chamados de suporte técnico n1
+- **[cadastro-clientes-java](https://github.com/Rocksd2/cadastro-clientes-java.git)**: Sistema de cadastro de clientes utilizando java
 <!-- Descomente as linhas abaixo e troque NOME-DO-REPO pelo nome real de cada repositório -->
 <!-- - **[Tela de Login Moderna](https://github.com/Rocksd2/NOME-DO-REPO)**: Estudo de interface (UI) com foco em experiência do usuário (UX) e design responsivo. -->
 <!-- - **[Site de Aniversário](https://github.com/Rocksd2/NOME-DO-REPO)**: Projeto criativo aplicando animações e interatividade com JS. -->
