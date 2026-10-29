@@ -82,6 +82,16 @@
 | **[ByteKV](https://github.com/Rocksd2/bytekv)** | Banco de dados chave-valor em memória escrito em C puro, com tratamento de colisões por lista encadeada e persistência binária em disco. | `C99` `Estruturas de Dados` |
 | **[Cadastro de Clientes](https://github.com/Rocksd2/cadastro-clientes-java)** | Sistema CLI de clientes com histórico de compras, aplicando os pilares de POO e a Java Collections Framework. | `Java 17` `POO` |
 
+<p align="center">
+  <a href="https://github.com/Rocksd2/EduGest-o">
+    <img width="85%" src="https://raw.githubusercontent.com/Rocksd2/EduGest-o/main/docs/preview.png" alt="Painel do EduGestão: indicadores de matrículas, média escolar, aprovações e frequência" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🎓 <b>EduGestão</b> rodando — clique na imagem para abrir o projeto</sub>
+</p>
+
 ### 🧪 Outros projetos e estudos
 
 - **[Helpdesk-Java](https://github.com/Rocksd2/helpdask-java)** — gerenciamento de chamados de suporte técnico (Java)
