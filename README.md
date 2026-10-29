@@ -1,6 +1,14 @@
 <h1 align="center">Olá, eu sou o Alexander Protasio! 👋</h1>
 
-<h3 align="center">Estudante de ADS • Desenvolvedor em evolução</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=580&lines=Estudante+de+ADS+na+UNAMA;Front-end+com+Vue+3;Java+%7C+Python+%7C+C;Aprendendo+um+pouco+todo+dia" alt="Estudante de ADS na UNAMA • Front-end com Vue 3 • Java, Python e C" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bel%C3%A9m-PA-0e75b6?style=flat-square&logo=googlemaps&logoColor=white" alt="Belém, Pará" />
+  <img src="https://img.shields.io/badge/aberto_a-est%C3%A1gio-brightgreen?style=flat-square" alt="Aberto a estágio" />
+  <img src="https://komarev.com/ghpvc/?username=Rocksd2&style=flat-square&color=0e75b6&label=visitas" alt="Visitas no perfil" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexander-protasio-26a84222a/">
@@ -9,10 +17,6 @@
   <a href="mailto:alexanderprotasio@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Rocksd2">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rocksd2&style=flat-square&color=0e75b6&label=visitas" alt="Visitas no perfil" />
 </p>
 
 ---
@@ -20,9 +24,10 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **UNAMA** — 2º período
+- 💼 **Aberto a estágio** em desenvolvimento — remoto ou presencial em Belém/PA
 - 🧪 Aprendo na prática: todo conteúdo da faculdade vira um projeto de sala ou pessoal
 - 🌱 Evoluindo entre **front-end** (Vue, HTML, CSS, JS) e **back-end/fundamentos** (Java, Python, C)
-- 🎯 Objetivo: transformar estudo em código que funciona — e conseguir minha primeira oportunidade na área
+- 🎯 Objetivo: transformar estudo em código que funciona — e conquistar minha primeira oportunidade na área
 - 💬 Gosto de trocar ideia sobre código, faculdade e projetos iniciantes
 
 ---
@@ -58,16 +63,33 @@
 
 ---
 
+## 📚 Aprendendo agora
+
+- ☕ **Java 17** — orientação a objetos, Collections e projetos de linha de comando
+- 🐘 **SQL** — modelagem de dados e consultas com SQLite
+- 🌐 **Vue 3 + Vite** — componentes, reatividade e construção de SPA
+- 🧠 **C** — ponteiros, alocação dinâmica de memória e estruturas de dados
+- 🔧 **Git** — branches, commits descritivos e organização de repositório
+
+---
+
 ## 📂 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| **[EduGestão](https://github.com/Rocksd2/EduGest-o)** | Painel responsivo de gestão acadêmica: cadastro de alunos, lançamento de notas com média automática, chamada diária e indicadores por turma. | `Vue 3` `Vite` `CSS` |
-| **[Helpdesk-Java](https://github.com/Rocksd2/helpdask-java)** | Sistema de gerenciamento de chamados de suporte técnico (N1), com abertura, acompanhamento e organização de tickets. | `Java` |
-| **[Cadastro de Clientes](https://github.com/Rocksd2/cadastro-clientes-java)** | Sistema de cadastro de clientes com operações de inclusão, consulta e listagem. | `Java` |
-| **[bytekv](https://github.com/Rocksd2/bytekv)** | Banco de dados em memória (key-value) escrito do zero, para entender estruturas de dados e manipulação de memória. | `C` |
+| **[EduGestão](https://github.com/Rocksd2/EduGest-o)** | Painel responsivo de gestão escolar: cadastro de alunos, lançamento de notas com média automática, chamada diária e indicadores por turma. | `Vue 3` `Vite` `CSS` |
+| **[NEXU — Mercantil do Vizinho](https://github.com/Rocksd2/Projeto-Nexus)** | Gestão de produtos, estoque e vendas para pequenos comércios: carrinho, baixa automática de estoque, histórico de vendas e indicadores de faturamento e lucro. Versão construída para hackathon. | `Python` `SQLite` |
+| **[ByteKV](https://github.com/Rocksd2/bytekv)** | Banco de dados chave-valor em memória escrito em C puro, com tratamento de colisões por lista encadeada e persistência binária em disco. | `C99` `Estruturas de Dados` |
+| **[Cadastro de Clientes](https://github.com/Rocksd2/cadastro-clientes-java)** | Sistema CLI de clientes com histórico de compras, aplicando os pilares de POO e a Java Collections Framework. | `Java 17` `POO` |
 
-> 💡 Cada repositório tem um README com o passo a passo de execução.
+### 🧪 Outros projetos e estudos
+
+- **[Helpdesk-Java](https://github.com/Rocksd2/helpdask-java)** — gerenciamento de chamados de suporte técnico (Java)
+- **[Tela de Login Moderna](https://github.com/Rocksd2/tela-de-login-moderna)** — login e cadastro com animações CSS e layout responsivo (HTML, CSS, JS)
+- **[Site de Aniversário](https://github.com/Rocksd2/Site-de-feliz-aniversario-para-namorada)** — página temática inspirada na Kuromi, feita de presente (HTML, CSS, JS)
+- **[Vetores e Strings](https://github.com/Rocksd2/vetores-e-strings)** — exercícios e anotações de vetores e strings em C
+
+> 💡 Cada repositório tem README com as instruções de execução.
 
 ---
 
@@ -88,7 +110,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Rocksd2?style=for-the-badge&label=estrelas&color=0e75b6" alt="Estrelas recebidas" />
   <img src="https://img.shields.io/github/followers/Rocksd2?style=for-the-badge&label=seguidores&color=0e75b6" alt="Seguidores" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRocksd2&query=%24.public_repos&label=repos&style=for-the-badge&color=0e75b6" alt="Repositórios públicos" />
 </p>
@@ -111,5 +132,5 @@ Aberto a conversas sobre estágio, projetos em equipe e troca de conhecimento. �
 ---
 
 <p align="center">
-  <i>"O código é a poesia do século XXI."</i> 💻✨
+  <i>Ainda estou no começo — e é justamente por isso que cada commit conta.</i> 💻
 </p>
